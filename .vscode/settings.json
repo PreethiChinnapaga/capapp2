@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "myconnection",
+            "database": "${workspaceFolder:capapp2}/db.sqlite"
+        }
+    ]
+}
